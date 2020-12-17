@@ -1,4 +1,4 @@
-# how-much-you-mahima
+# how-much-you know-mahima
 
 quiz made in javascript
 
